@@ -1,4 +1,4 @@
-## Q LEARNING ALGORITHM
+# Q LEARNING ALGORITHM
 ## AIM
 To develop and evaluate the Q-learning algorithm's performance in navigating the environment and achieving the desired goal.
 
